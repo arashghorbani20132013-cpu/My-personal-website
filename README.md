@@ -23,3 +23,11 @@ A modern, responsive, and clean personal portfolio website designed to showcase 
 ├── index.html       # Main structure and content of the website
 ├── profile.jpg     # User profile picture
 └── README.md        # Project documentation
+
+markdown
+## 📬 Contact Me
+
+If you want to collaborate on a project or just say hi, feel free to reach out!
+
+- 🌐 **GitHub:** [Arash Ghorbani](https://github.com/arashghorbani20132013-cpu) 
+- ✈️ **Telegram:** [@arashghorbani20132013](https://t.me/arashghorbani20132013)
