@@ -25,6 +25,7 @@ A modern, responsive, and clean personal portfolio website designed to showcase 
 └── README.md        # Project documentation
 
 markdown
+
 ## 📬 Contact Me
 
 If you want to collaborate on a project or just say hi, feel free to reach out!
